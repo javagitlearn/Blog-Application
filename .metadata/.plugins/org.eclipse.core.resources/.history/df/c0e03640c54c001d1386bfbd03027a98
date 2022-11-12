@@ -1,0 +1,5 @@
+package com.blogapp.durgesh.payloads;
+
+public class UserDto {
+
+}

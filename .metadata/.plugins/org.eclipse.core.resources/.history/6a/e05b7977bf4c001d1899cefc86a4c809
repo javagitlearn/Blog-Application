@@ -1,0 +1,5 @@
+package com.blogapp.durgesh.entities;
+
+public class User {
+
+}
